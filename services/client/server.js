@@ -142,6 +142,14 @@ io.on('connection', function(socket) {
         image: '/images/ecs.png',
         status: 'none',
         onlineCount: 0
+      },
+      {
+        id: 'lhind',
+        name: 'LHIND Technologie Tag 2018',
+        preview: 'LHIND Technologie Tag 2018',
+        image: '/images/lhind.png',
+        status: 'none',
+        onlineCount: 0
       }
     ]);
   });
