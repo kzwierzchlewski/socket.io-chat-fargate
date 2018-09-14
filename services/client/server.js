@@ -120,6 +120,14 @@ io.on('connection', function(socket) {
         onlineCount: 0
       },
       {
+        id: 'lhind',
+        name: 'LHIND Technologie Tag 2018',
+        preview: 'LHIND TT2018',
+        image: '/images/lhind.jpg',
+        status: 'none',
+        onlineCount: 0
+      },
+      {
         id: 'fargate',
         name: 'AWS Fargate',
         preview: 'Containers without instances',
@@ -140,14 +148,6 @@ io.on('connection', function(socket) {
         name: 'AWS ECS',
         preview: 'AWS container orchestrator',
         image: '/images/ecs.png',
-        status: 'none',
-        onlineCount: 0
-      },
-      {
-        id: 'lhind',
-        name: 'LHIND Technologie Tag 2018',
-        preview: 'LHIND TT2018',
-        image: '/images/lhind.jpg',
         status: 'none',
         onlineCount: 0
       }
