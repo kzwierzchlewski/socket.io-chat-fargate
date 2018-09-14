@@ -130,7 +130,7 @@ io.on('connection', function(socket) {
       {
         id: 'eks',
         name: 'LHIND Technologie Tag 2018',
-        preview: 'LHIND Technologie Tag 2018',
+        preview: 'LHIND Technologie Tag ist super',
         image: '/images/lhind.jpg',
         status: 'none',
         onlineCount: 0
