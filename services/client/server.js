@@ -120,14 +120,6 @@ io.on('connection', function(socket) {
         onlineCount: 0
       },
       {
-        id: 'lhind',
-        name: 'LHIND Technologie Tag 2018',
-        preview: 'LHIND TT2018',
-        image: '/images/lhind.jpg',
-        status: 'none',
-        onlineCount: 0
-      },
-      {
         id: 'fargate',
         name: 'AWS Fargate',
         preview: 'Containers without instances',
@@ -137,9 +129,9 @@ io.on('connection', function(socket) {
       },
       {
         id: 'eks',
-        name: 'AWS EKS',
-        preview: 'AWS managed Kubernetes masters',
-        image: '/images/eks.png',
+        name: 'LHIND Technologie Tag 2018',
+        preview: 'LHIND Technologie Tag 2018',
+        image: '/images/lhind.jpg',
         status: 'none',
         onlineCount: 0
       },
